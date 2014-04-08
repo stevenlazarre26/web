@@ -93,6 +93,24 @@ background:#686868;
 bottom:0px;
 position:relative;
 }
+.container{
+height:300px;
+width:900px;
+
+border:2px solid #0033FF;
+
+}
+
+.right_col{
+float:right;
+margin-right:75px;
+padding-top:50px;
+}
+.left_col{
+float:left;
+margin-left:75px;
+padding-top:50px;
+}
 .footer_story{
 width:100%;
 height:50px;
